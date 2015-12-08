@@ -1,5 +1,5 @@
 {
-  "name": "Nexmo 2FA Authentication",
+  "name": "Heroku 2FA Authentication",
   "description": "Developer can integrate Two-factor in few lines of code.",
   "logo": "https://www.nexmo.com/assets/img/footer-logo.svg",
   "keywords": ["nexmo", "Two factor","python", "flask","API"],
