@@ -24,4 +24,8 @@ Develop a Heroku app to provide the Two Factor Authentication (2FA) service usin
 - To search on Requests status that are terminated or still running.
   - Request URL: ```http://<heroku-app-url>/status?req_id=<request_id>```
   - Send request on status end point with request id query string.
+<<<<<<< HEAD
   - Return the JSON of status information.
+=======
+  - Return the JSON of status information.
+>>>>>>> 10e3e4720495a7699f98ffa216c5c287fd1b20e7
